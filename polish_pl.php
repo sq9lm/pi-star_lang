@@ -2,7 +2,7 @@
 //
 // Polska PL Language Pack
 // Łukasz Misiura (SQ9LM)
-// Updated: 02-Dec-2019 v1.3
+// Updated: 06.03.2021 v1.4
 //
 $lang = array (
   // Banner texts
@@ -16,7 +16,7 @@ $lang = array (
   "update"                      =>  "Aktualizacja",
   "backup_restore"              =>  "Kopia/Przywracanie",
   "factory_reset"               =>  "Przywracanie ustawień fabrycznych",
-  "live_logs"                   =>  "Logi na żywo :)",
+  "live_logs"                   =>  "Logi",
   // Config page section headdings
   "hardware_info"               =>  "Informacje o sprzęcie bramki",
   "control_software"            =>  "Oprogramowanie sterujące",
@@ -28,7 +28,8 @@ $lang = array (
   "p25_config"                  =>  "Konfiguracja P25",
   "nxdn_config"                 =>  "Konfiguracja NXDN",
   "pocsag_config"               =>  "Konfiguracja POCSAG",
-  "wifi_config"                 =>  "Konfiguracja Wireless",
+  "mobilegps_config"            =>  "Konfiguracja GPS",
+  "wifi_config"                 =>  "Konfiguracja WiFi",
   "fw_config"                   =>  "Konfiguracja Zapory",
   "remote_access_pw"            =>  "Hasło zdalnego Dostępu",
   // Config Page - Section General
@@ -37,7 +38,7 @@ $lang = array (
   "apply"                       =>  "Zapisz Zmiany",
   // Config Page - Gateway Hardware Information
   "hostname"                    =>  "Nazwa hosta",
-  "kernel"                      =>  "Kernel/Jądro",
+  "kernel"                      =>  "Kernel",
   "platform"                    =>  "Platforma",
   "cpu_load"                    =>  "Obciążenie procesora",
   "cpu_temp"                    =>  "Temp. procesora",
@@ -92,6 +93,10 @@ $lang = array (
   // Config Page - NXDN Configuration
   "nxdn_startup_host"            =>  "Host startowy NXDN",
   "nxdn_ran"                     =>  "NXDN RAN",
+  // Config Page - MobileGPS Configuration
+  "mobilegps_enable"            =>  "Włącz GPS",
+  "mobilegps_port"              =>  "GPS Port",
+  "mobilegps_speed"             =>  "GPS Port Speed",
   // Config Page - Firewall Configuration
   "fw_dash"                     =>  "Dostęp do Dashboard'u",
   "fw_irc"                      =>  "Zdalny dostęp ircDDBGateway",
@@ -143,3 +148,4 @@ $lang = array (
   "service_status"              =>  "Status Usługi"
 );
 ?>
+  
