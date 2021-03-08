@@ -106,7 +106,7 @@ $lang = array (
   "password"                    =>  "Hasło",
   "set_password"                =>  "Ustaw Hasło",
   // Dashboard Front Page - Repeater Info Pannel
-  "modes_enabled"               =>  "Tryb włączony",
+  "modes_enabled"               =>  "Rodzaj Tryb",
   "net_status"                  =>  "Status Sieci",
   "internet"                    =>  "Internet",
   "radio_info"                  =>  "Informacja Radio",
@@ -123,11 +123,11 @@ $lang = array (
   "time"                        =>  "Godzina",
   "mode"                        =>  "Tryb",
   "callsign"                    =>  "Znak Wywoławczy",
-  "target"                      =>  "Cel",
-  "src"                         =>  "Żr.",        // Short version of "Source"
-  "dur"                         =>  "Cel",        // Short version of "Duration"
-  "loss"                        =>  "Strata",
-  "ber"                         =>  "BER",        // Short version of "Bit Error Rate"
+  "target"                      =>  "Grupa",
+  "src"                         =>  "Sieć",        // Short version of "Source"
+  "dur"                         =>  "Czas",        // Short version of "Duration"
+  "loss"                        =>  "Strata (%)",
+  "ber"                         =>  "BER (%)",        // Short version of "Bit Error Rate"
   // POCSAG Specific
   "pocsag_list"                 =>  "Aktywność bramy DAPNET",
   "pocsag_timeslot"             =>  "Szczelina Czasowa",
