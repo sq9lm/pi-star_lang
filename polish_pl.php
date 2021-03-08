@@ -2,7 +2,7 @@
 //
 // Polska PL Language Pack
 // Łukasz Misiura (SQ9LM)
-// Updated: 06.03.2021 v1.4
+// Updated: 08.03.2021 v1.5
 //
 $lang = array (
   // Banner texts
@@ -139,7 +139,7 @@ $lang = array (
   "utot"                        =>  "UTOT",       // Short for User Timeout
   "gtot"                        =>  "GTOT",       // Short for Group Timeout
   // Dashboard Front Page / Admin - Section Headders
-  "last_heard_list"             =>  "Aktywność bramy",
+  "last_heard_list"             =>  "Aktywność",
   "local_tx_list"               =>  "Lokalna aktywność RF",
   "active_starnet_groups"       =>  "Aktywne grupy Starnet",
   "active_starnet_members"      =>  "Aktywni członkowie grupy Starnet",
@@ -148,4 +148,3 @@ $lang = array (
   "service_status"              =>  "Status Usługi"
 );
 ?>
-  
